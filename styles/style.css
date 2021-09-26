@@ -179,12 +179,12 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin: 0px
+  margin: 0px;
 }
 .table__text_author-fact{
   width: 250px;
   display: flex;
- 
+
 }
 .table__text_author{
   display: flex;
@@ -363,7 +363,7 @@ background-image: url(../images/feynman.png);
     display: flex;
     justify-content: space-between;
     margin: 18px 0 18px;
-    
+
   }
   .footer__author-text{
     line-height: 25px;
@@ -405,7 +405,7 @@ background-image: url(../images/feynman.png);
   .footer__column-link{
     display: flex;
     justify-content: space-around;
-    
+
   }
   .footer__column_content_social{
     display: flex;
