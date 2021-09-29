@@ -97,6 +97,7 @@
   font-size: 24px;
   font-weight: normal;
   margin: 0;
+  margin-bottom: 30px;
 }
 .two-columns__span-accent{
   line-height: 34px;
@@ -106,7 +107,7 @@
 /*Section digits*/
 .section-title{
   width: 60%;
-  margin:80px auto 20px;
+  margin: 70px auto 20px;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
