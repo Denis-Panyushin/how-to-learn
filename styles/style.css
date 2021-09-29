@@ -144,7 +144,6 @@ p, h1, h2, h3{
 .table__text{
   width: 250px;
   display: flex;
-  margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -176,7 +175,6 @@ p, h1, h2, h3{
   position: relative;
 }
 .feynman__subtitle{
-  margin: 0px auto;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -201,7 +199,7 @@ p, h1, h2, h3{
   background-color: #1f1f1f;
   padding-top: 90px;
   padding-bottom: 90px;
-  overflow: hidden
+  overflow: hidden;
 }
 .section__title_theme_dark{
   color: white;
