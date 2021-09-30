@@ -14,9 +14,11 @@
   background-color: #f2f2f2;
   margin-bottom: 100px;
 }
-.header__logo_place{
+.logo{
   width: 182px;
   height: 32px;
+}
+.logo_place_header{
   position: absolute;
   top: 30px;
   left: 64px;
@@ -264,9 +266,7 @@
   padding: 0px;
   justify-content: space-between;
 }
-.footer__logo_place{
-  width: 183px;
-  height: 35px;
+.logo_place_footor{
   display: flex;
   margin-top: 0px;
 }
