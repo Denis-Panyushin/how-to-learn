@@ -45,7 +45,7 @@
   font-weight: normal;
   margin: 0;
 }
-.header-link{
+.header__link{
   color: #2f80ed;
   text-decoration: none;
 }
@@ -106,9 +106,12 @@
   font-weight: bold;
 }
 /*Section digits*/
+.digits{
+  padding-top: 70px;
+}
 .section-title{
   width: 60%;
-  margin: 70px auto 20px;
+  margin: 0 auto 20px;
   text-align: center;
   line-height: 1.15;
   font-size: 60px;
